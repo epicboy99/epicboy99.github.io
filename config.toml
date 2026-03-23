@@ -1,0 +1,17 @@
+baseurl = "https://epicboy99.github.io/"
+title = "기록 저장소"
+languageCode = "ko-KR"
+
+theme = "hugo-hello-programmer-theme"
+themesdir = "../.."
+
+paginate = 7
+
+# Google Analytics - 최신 방식
+[services]
+  [services.googleAnalytics]
+    id = "G-XXXXXXXXXX"  # 실제 GA4 측정 ID로 변경
+
+[author]
+    name = "J TIGER"
+    email = "your-email"
