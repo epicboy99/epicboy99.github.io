@@ -1,0 +1,6 @@
+baseURL = "https://epicboy99.github.io/"
+title = "기록 저장소"
+languageCode = "ko-KR"
+defaultContentLanguage = "kr"
+theme = "hugo-hello-programmer-theme"
+paginate = 7
