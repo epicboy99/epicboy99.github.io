@@ -7,10 +7,12 @@ themesdir = "../.."
 
 paginate = 7
 
-# Google Analytics - 최신 방식
+# Google Analytics - 두 가지 형식 모두 작성
+googleAnalytics = ""  # 빈 문자열로 설정 (오류 방지)
+
 [services]
   [services.googleAnalytics]
-    id = "G-XXXXXXXXXX"  # 실제 GA4 측정 ID로 변경
+    id = ""  # 빈 문자열로 설정
 
 [author]
     name = "J TIGER"
